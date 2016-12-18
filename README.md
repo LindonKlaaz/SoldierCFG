@@ -1,0 +1,2 @@
+# SoldierCFG
+Soldier Config - Competitive
